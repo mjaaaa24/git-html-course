@@ -12,4 +12,3 @@ I'm using this to practice and document my frontend journey.
 - CSS styling
 - Responsive layouts
 
-Test
