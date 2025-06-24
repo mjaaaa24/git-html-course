@@ -1,7 +1,7 @@
 # HTML & CSS Crash Course
 
-![Last Commit](https://img.shields.io/github/last-commit/mjdevstudios/git-htmlcss-course)
-![License](https://img.shields.io/github/license/mjdevstudios/git-htmlcss-course)
+![Last Commit](https://img.shields.io/github/last-commit/mjaaaa24/git-htmlcss-course)
+![License](https://img.shields.io/github/license/mjaaaa24/git-htmlcss-course)
 
 This is a project following Brad Traversy's HTML & CSS Crash Course (2024).  
 
