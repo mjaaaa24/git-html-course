@@ -2,12 +2,12 @@
 p.blockinline {
     background-color: rgb(98, 245, 130);
     padding: 1rem;
-    margin-bottom: 1rem;
+    margin-bottom: 4rem;
 }
 
-a.blickinline {
+a.blockinline {
     /* display: block; <----- You can make inline, block level with this code  */
     background-color: rgb(98, 245, 130);
     padding: 1rem;
-    margin-bottom: 1rem;
+    margin-bottom: 4rem;
 }
