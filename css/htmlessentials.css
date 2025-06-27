@@ -1,0 +1,13 @@
+/* Block and Inline Elements Section */
+p.blockinline {
+    background-color: rgb(98, 245, 130);
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+a.blickinline {
+    /* display: block; <----- You can make inline, block level with this code  */
+    background-color: rgb(98, 245, 130);
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
